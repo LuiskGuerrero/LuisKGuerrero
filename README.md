@@ -1,18 +1,15 @@
 ### Hi there 👋
 
-Estudiante de Tecnologia en Sistemas de información  
+Estudiante de Tecnología en Sistemas de información
+Tripulante UdA 2022
 
-<!--
-**LuiskGuerrero/LuisKGuerrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+print ("Espero poder colaborarte")
+saludo = (input("¡Bienvenido!"))
 
-Here are some ideas to get you started:
+- 🔭 Estoy trabajando en encontrar una oportunidad
+- 🌱 Actualmente estoy aprendiendo Python, Git, BD, HTML y CSS
+- 👯 Estoy buscando colaborar en proyectos que me guien en mi aprendizaje
+- 🤔 Busco ayuda en lo referente a temas de diseño, analisis y desarrollo
+- 📫 Cómo contactarme: lcguerrero28@hotmail.com
+- 😄 Acerca de mi: apasionado por enfrentar nuevos retos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
