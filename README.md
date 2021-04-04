@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Estudiante de Tecnología en Sistemas de información<br/>
-Tripulante UdA 2022
+### *Tripulante UdeA 2022*
 
 print ("Espero poder colaborarte")<br/>
 saludo = (input("¡Bienvenido!"))
@@ -12,4 +12,3 @@ saludo = (input("¡Bienvenido!"))
 - 🤔 Busco ayuda en lo referente a temas de diseño, analisis y desarrollo
 - 📫 Cómo contactarme: lcguerrero28@hotmail.com
 - 😄 Acerca de mi: apasionado por enfrentar nuevos retos
-
