@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Estudiante de Tecnología en Sistemas de información
+### Estudiante de Tecnología en Sistemas de información<br/>
 Tripulante UdA 2022
 
-print ("Espero poder colaborarte")
+print ("Espero poder colaborarte")<br/>
 saludo = (input("¡Bienvenido!"))
 
 - 🔭 Estoy trabajando en encontrar una oportunidad
