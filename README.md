@@ -12,3 +12,5 @@ saludo = (input("¡Bienvenido!"))
 - 🤔 Busco ayuda en lo referente a temas de diseño, analisis y desarrollo
 - 📫 Cómo contactarme: lcguerrero28@hotmail.com
 - 😄 Acerca de mi: apasionado por enfrentar nuevos retos
+
+![gran_1](https://user-images.githubusercontent.com/81112808/113521346-81ad1300-955e-11eb-977c-d2ee1bb8d272.jpg)
